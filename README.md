@@ -2,6 +2,19 @@
 
 ## Saban Kocal and his friends want to make it more OOP!!! 
 
+## Emre added this line just for testing purposes!
+
+## VEHBI added this line just for testing purposes!
+
+## Omer added this line just for testing purposes!
+
+### changes on master will cause @@@@@CONFLICTS@@@@@
+### changes on master will cause @@@@@CONFLICTS@@@@@
+### changes on master will cause @@@@@CONFLICTS@@@@@
+### changes on master will cause @@@@@CONFLICTS@@@@@
+### changes on master will cause @@@@@CONFLICTS@@@@@
+### changes on master will cause @@@@@CONFLICTS@@@@@
+
 A minimalist desktop app  to managae students record. **record are saved directly on an excel file to decrease data Entry labour cost**  and improves efficiency.
 
 >launch the srm.exe file directly to use the App.
@@ -22,4 +35,8 @@ A minimalist desktop app  to managae students record. **record are saved directl
 
 ## ``Records Saved in Excel File``
 <img src="ScreenShot/ViewExcel.JPG">
-"this change was made by Nurullah"
+sdlöam
+"this change was made by Nurullah" 
+
+                       "Hi there (bekir)"
+Merhaba
